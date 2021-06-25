@@ -1,0 +1,26 @@
+
+a , a:hover{
+	text-decoration: none;
+}
+
+.back , .send{
+	background:#444;
+	color:#fff;
+	display:inline;
+	width:120px !important;
+	margin:10px auto;
+}
+
+
+.send{
+	background:#22f;
+	color:#fff;
+	margin-left:49px;
+}
+
+
+.back:hover , .send:hover{
+	cursor: pointer;
+}
+
+
